@@ -6,7 +6,7 @@ They are simplified versions of the original dataset available here: https://git
 
 ## Schema of the data
 
-The first dataset called artworks contains 50 000 rows, with the 3 following attributes:
+The first dataset called artworks contains 46 146 rows, with the 3 following attributes:
   - Title
   - Year
   - ConstituentID
