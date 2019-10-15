@@ -11,7 +11,7 @@ The first dataset called artworks contains 50 000 rows, with the 3 following att
   - Year
   - ConstituentID
  
-The second dataset called artists contains 15 000 rows, with the 3 following attributes:
+The second dataset called artists contains 15 000 rows, with the 4 following attributes:
   - ConstituentID
   - DisplayName
   - Nationality
