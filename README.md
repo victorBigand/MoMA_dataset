@@ -1,8 +1,8 @@
 # MoMA_dataset
 
-These two csv files contain data about MoMA artworks and their correpsonding artists.
+These two csv files contain data about MoMA artworks and their corresponding artists.
 
-They are simplified versions of the original dataset available here: https://github.com/MuseumofModernArt/collection
+They are simplified and "cleaned" versions of the original dataset available here: https://github.com/MuseumofModernArt/collection
 
 ## Schema of the data
 
